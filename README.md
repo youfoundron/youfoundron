@@ -19,8 +19,8 @@
 <details>
 <summary><sub>View as table</sub></summary>
 
-| Date | 🧸 | 👟 | 🚲 |
-| ---- | -: | -: | -: |
+| 🗓️ | 🧸 | 👟 | 🚲 |
+| --- | -: | -: | -: |
 | 08/05 | 7.9 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
 | 08/04 | 6.4 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
 | 08/03 | 7.3 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
@@ -55,4 +55,4 @@
 </details>
 <!-- status:end -->
 
-<div><sub>Last update: 08/05 05:00 PM PST</sub></div>
+<div><sub>Last update: 08/05 05:01 PM PST</sub></div>

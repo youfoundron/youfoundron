@@ -8,6 +8,12 @@
 <p><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/axis-two-week.svg"><img src="assets/status/axis.svg" alt="Window runs from 30 days ago on the left to today on the right. The readings are in the table below."></picture></a></p>
 </td></tr></table>
 <table align="left"><tr><td>
+<div><strong>Resting Heart Rate 🩺</strong></div>
+<div><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/summary-rhr-two-week.svg"><img src="assets/status/summary-rhr.svg" alt="57.7 bpm avg"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/critical.svg" alt="" title="over 73 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/attention.svg" alt="" title="73 bpm or less"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/neutral.svg" alt="" title="66 bpm or less"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/fair.svg" alt="" title="61 bpm or less"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/good.svg" alt="" title="55 bpm or less"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/legend-rested-tail.svg" alt=""></picture></a></div>
+<p><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/fair.svg" alt="" title="Tue Jul 7 · 56 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/fair.svg" alt="" title="Wed Jul 8 · 58 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/missing.svg" alt="" title="Thu Jul 9 · no data"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/fair.svg" alt="" title="Fri Jul 10 · 56 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/missing.svg" alt="" title="Sat Jul 11 · no data"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/fair.svg" alt="" title="Sun Jul 12 · 59 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/neutral.svg" alt="" title="Mon Jul 13 · 63 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/good.svg" alt="" title="Tue Jul 14 · 53 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/missing.svg" alt="" title="Wed Jul 15 · no data"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/good.svg" alt="" title="Thu Jul 16 · 53 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/fair.svg" alt="" title="Fri Jul 17 · 56 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/missing.svg" alt="" title="Sat Jul 18 · no data"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/fair.svg" alt="" title="Sun Jul 19 · 57 bpm"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/missing.svg" alt="" title="Mon Jul 20 · no data"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/missing.svg" alt="" title="Tue Jul 21 · no data"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/missing.svg" alt="" title="Wed Jul 22 · no data"></picture></a><a href="#status-table"><img src="assets/status/missing.svg" alt="" title="Thu Jul 23 · no data"></a><a href="#status-table"><img src="assets/status/fair.svg" alt="" title="Fri Jul 24 · 60 bpm"></a><a href="#status-table"><img src="assets/status/missing.svg" alt="" title="Sat Jul 25 · no data"></a><a href="#status-table"><img src="assets/status/missing.svg" alt="" title="Sun Jul 26 · no data"></a><a href="#status-table"><img src="assets/status/missing.svg" alt="" title="Mon Jul 27 · no data"></a><a href="#status-table"><img src="assets/status/fair.svg" alt="" title="Tue Jul 28 · 59 bpm"></a><a href="#status-table"><img src="assets/status/fair.svg" alt="" title="Wed Jul 29 · 57 bpm"></a><a href="#status-table"><img src="assets/status/missing.svg" alt="" title="Thu Jul 30 · no data"></a><a href="#status-table"><img src="assets/status/good.svg" alt="" title="Fri Jul 31 · 55 bpm"></a><a href="#status-table"><img src="assets/status/fair.svg" alt="" title="Sat Aug 1 · 59 bpm"></a><a href="#status-table"><img src="assets/status/fair.svg" alt="" title="Sun Aug 2 · 60 bpm"></a><a href="#status-table"><img src="assets/status/attention.svg" alt="" title="Mon Aug 3 · 73 bpm"></a><a href="#status-table"><img src="assets/status/good.svg" alt="" title="Tue Aug 4 · 54 bpm"></a><a href="#status-table"><img src="assets/status/good.svg" alt="" title="Wed Aug 5 · 50 bpm"></a></p>
+<p><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/axis-two-week.svg"><img src="assets/status/axis.svg" alt="Window runs from 30 days ago on the left to today on the right. The readings are in the table below."></picture></a></p>
+</td></tr></table>
+<table align="left"><tr><td>
 <div><strong>Run 👟</strong></div>
 <div><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/summary-run-two-week.svg"><img src="assets/status/summary-run.svg" alt="0.9 mi/week avg · 4 mi · 115 ft"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="no activity"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity1.svg" alt="" title="under 5k"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity2.svg" alt="" title="5k+"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity3.svg" alt="" title="10k+"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity4.svg" alt="" title="20k+"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/legend-activity-tail.svg" alt=""></picture></a></div>
 <p><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Tue Jul 7 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Wed Jul 8 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Thu Jul 9 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity2.svg" alt="" title="Fri Jul 10 · 4 mi · 115 ft"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Sat Jul 11 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Sun Jul 12 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Mon Jul 13 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Tue Jul 14 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Wed Jul 15 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Thu Jul 16 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Fri Jul 17 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Sat Jul 18 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Sun Jul 19 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Mon Jul 20 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Tue Jul 21 · rest day"></picture></a><a href="#status-table"><picture><source media="(max-width: 543.98px)" srcset="assets/status/empty.svg"><img src="assets/status/activity0.svg" alt="" title="Wed Jul 22 · rest day"></picture></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Thu Jul 23 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Fri Jul 24 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Sat Jul 25 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Sun Jul 26 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Mon Jul 27 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Tue Jul 28 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Wed Jul 29 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Thu Jul 30 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Fri Jul 31 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Sat Aug 1 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Sun Aug 2 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Mon Aug 3 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Tue Aug 4 · rest day"></a><a href="#status-table"><img src="assets/status/activity0.svg" alt="" title="Wed Aug 5 · rest day"></a></p>
@@ -25,40 +31,40 @@
 <details>
 <summary><sub>View as table</sub></summary>
 
-| 🗓️ | 🧸 | 👟 | 🚲 |
-| --- | -: | -: | -: |
-| 08/05 | 7.9 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 08/04 | 6.4 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 08/03 | 7.3 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 08/02 | 6.9 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 08/01 | 6.1 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/31 | 7.4 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/30 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/29 | 7 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/28 | 6.7 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/27 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/26 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/25 | — | 0 mi, 0 ft | 11.2 mi, 1,238 ft |
-| 07/24 | 3.9 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/23 | — | 0 mi, 0 ft | 3 mi, 155 ft |
-| 07/22 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/21 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/20 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/19 | 5.9 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/18 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/17 | 6.8 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/16 | 4.7 hrs | 0 mi, 0 ft | 9.6 mi, 565 ft |
-| 07/15 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/14 | 6.1 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/13 | 7.5 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/12 | 5.9 hrs | 0 mi, 0 ft | 48.1 mi, 4,480 ft |
-| 07/11 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/10 | 5.5 hrs | 4 mi, 115 ft | 0 mi, 0 ft |
-| 07/09 | — | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/08 | 7.8 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
-| 07/07 | 7.1 hrs | 0 mi, 0 ft | 0 mi, 0 ft |
+| 🗓️ | 🧸 | 🩺 | 👟 | 🚲 |
+| --- | -: | -: | -: | -: |
+| 08/05 | 7.9 hrs | 50 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 08/04 | 6.4 hrs | 54 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 08/03 | 7.3 hrs | 73 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 08/02 | 6.9 hrs | 60 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 08/01 | 6.1 hrs | 59 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/31 | 7.4 hrs | 55 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/30 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/29 | 7 hrs | 57 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/28 | 6.7 hrs | 59 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/27 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/26 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/25 | — | — | 0 mi, 0 ft | 11.2 mi, 1,238 ft |
+| 07/24 | 3.9 hrs | 60 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/23 | — | — | 0 mi, 0 ft | 3 mi, 155 ft |
+| 07/22 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/21 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/20 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/19 | 5.9 hrs | 57 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/18 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/17 | 6.8 hrs | 56 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/16 | 4.7 hrs | 53 bpm | 0 mi, 0 ft | 9.6 mi, 565 ft |
+| 07/15 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/14 | 6.1 hrs | 53 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/13 | 7.5 hrs | 63 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/12 | 5.9 hrs | 59 bpm | 0 mi, 0 ft | 48.1 mi, 4,480 ft |
+| 07/11 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/10 | 5.5 hrs | 56 bpm | 4 mi, 115 ft | 0 mi, 0 ft |
+| 07/09 | — | — | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/08 | 7.8 hrs | 58 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
+| 07/07 | 7.1 hrs | 56 bpm | 0 mi, 0 ft | 0 mi, 0 ft |
 
 </details>
 <!-- status:end -->
 
-<div><sub>Last update: 08/05 06:14 PM PST</sub></div>
+<div><sub>Last update: 08/05 06:26 PM PST</sub></div>
